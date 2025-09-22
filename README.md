@@ -243,11 +243,23 @@ The model can be integrated into:
 - **Mobile application development**
 - **Uncertainty quantification** for predictions
 
+  
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]()
+[![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)]()
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)]()
+
+
 
 ## ⚠️ Disclaimer
 
 This system is designed for research and educational purposes. It should not be used as the sole diagnostic tool for medical decisions. Always consult with qualified medical professionals for accurate diagnosis and treatment.
 
 ---
+## 👨‍💻 Author
+**Nagavengadeshwaran S**  
+📧 Email: 24f1000802@ds.study.iitm.ac.in  
+🌐 GitHub: [Nv1023](https://github.com/Nv1023)
+
 
 *Advancing medical imaging through AI-powered fracture detection* 🏥✨
