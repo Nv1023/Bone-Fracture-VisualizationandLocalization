@@ -261,5 +261,8 @@ This system is designed for research and educational purposes. It should not be 
 📧 Email: 24f1000802@ds.study.iitm.ac.in  
 🌐 GitHub: [Nv1023](https://github.com/Nv1023)
 
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 *Advancing medical imaging through AI-powered fracture detection* 🏥✨
